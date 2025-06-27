@@ -20,12 +20,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+<<<<<<< HEAD
 
+=======
+        
+>>>>>>> 8549af1e23db4bd6d8c21f6362cb9825e23dc214
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
           cache: 'npm'
+<<<<<<< HEAD
 
       - name: Install dependencies
         run: npm ci
@@ -36,6 +41,15 @@ jobs:
       - name: Add .nojekyll file
         run: touch ./out/.nojekyll
 
+=======
+          
+      - name: Install dependencies
+        run: npm ci
+        
+      - name: Build project
+        run: npm run build
+        
+>>>>>>> 8549af1e23db4bd6d8c21f6362cb9825e23dc214
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
