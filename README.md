@@ -1,12 +1,12 @@
 # 🦷 Dr. Sarra ISMAIL -    Site Web Dentaire Professionnel
 
-![Image](https://github.com/user-attachments/assets/5c8563a0-a388-40e9-9b1b-5753b04ab76b)
+<img width="949" alt="Image" src="https://github.com/user-attachments/assets/790e88b7-e576-4276-a16e-ffcbbceb2b1e" />
 
-![Image](https://github.com/user-attachments/assets/144c5711-9f88-4b24-8222-3f8c44f65a73)
+<img width="953" alt="Image" src="https://github.com/user-attachments/assets/20f935a1-95ad-4e21-be04-adb448748b81" />
 
-![Image](https://github.com/user-attachments/assets/1e5a7609-e262-4232-975a-219c9f669740)
+<img width="934" alt="Image" src="https://github.com/user-attachments/assets/7d8a5c89-1690-4c03-8c27-d46ceda37efe" />
 
-![Image](https://github.com/user-attachments/assets/6a4a6e97-a1f1-472d-a04f-c7d3f48b03af)
+<img width="958" alt="Image" src="https://github.com/user-attachments/assets/157bb6b8-46fe-4ec4-bdc4-37761f85d5a4" />
 Un site web moderne et professionnel pour le cabinet dentaire du Dr. Sarra ISMAIL à Sfax, Tunisie.
 
 ## ✨ Fonctionnalités
