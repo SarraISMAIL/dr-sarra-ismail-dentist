@@ -1,6 +1,6 @@
 # 🦷 Dr. Sarra ISMAIL -    Site Web Dentaire Professionnel
 
-![screen1%20.png]
+![screen1.png]
 Un site web moderne et professionnel pour le cabinet dentaire du Dr. Sarra ISMAIL à Sfax, Tunisie.
 
 ## ✨ Fonctionnalités
